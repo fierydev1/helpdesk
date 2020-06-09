@@ -101,6 +101,7 @@ In any event, the `Keys` will be stored in your browser for your convenience, bu
 
 ## Get a Membership
 To become a `Member` of the platform, you need some tokens. Either click the `Free Tokens` link, or click [here](https://faucet.joystream.org/). After you solved the captcha, your tokens should be on their way.
+(Currently Faucet is closed, please contact us in Telegram for tJoy! (https://t.me/JoyStreamOfficial)
 
 **Note**
 All transactions (extrinsics) cost 1 Joy token, so you should always keep a little in reserve, as this also applies to such actions as voting, unstaking, and posting in the new [forum](https://testnet.joystream.org/#/forum).
